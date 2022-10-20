@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-12935
-Fork on GitHub
-3323
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Oi 👋, eu sou Deimison :D</h1>
 <h3 align="center">Sou apaixonado por engenharia e analise de dados</h3>
 
